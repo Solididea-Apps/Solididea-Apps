@@ -4,5 +4,5 @@
 <p align="left">
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFBft2UUnBGYpomEO8CUaA7d1i_OUSbsp7Iw&s" width="50">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" width="150"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" width="50"/>
 </p>
